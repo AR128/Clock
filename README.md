@@ -14,7 +14,7 @@ TimeTracker is a simple and intuitive website that provides timer and stopwatch 
 
 # Getting Started
 1. Visit the live website: https://your-website-url.com/
-2. Clone the repository: git clone https://github.com/your-username/TimeTracker.git
+2. Clone the repository: git clone [https://github.com/your-username/TimeTracker.git](https://github.com/AR128/Clock.git)
 3. Open index.html in your web browser to run locally.
 
 # Contributing
