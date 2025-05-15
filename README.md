@@ -14,11 +14,11 @@ Pulzee is a simple and intuitive website that provides timer and stopwatch funct
 
 # Getting Started
 1. Visit the live website: [Pulzee](https://pulzee.netlify.app/)
-2. Clone the repository: git clone [https://github.com/AR128/Pulzee.git](https://github.com/AR128/Pulzee.git)
+2. Clone the repository: git clone [AR128/Pulzee.git](https://github.com/AR128/Pulzee.git)
 3. Open index.html in your web browser to run locally.
 
 # Contributing
-Contributions are welcome! If you'd like to contribute to TimeTracker, please fork the repository and submit a pull request.
+Contributions are welcome! If you'd like to contribute to Pulzee, please fork the repository and submit a pull request.
 
 # License
 Pulzee is licensed under the MIT License. See LICENSE for details.
